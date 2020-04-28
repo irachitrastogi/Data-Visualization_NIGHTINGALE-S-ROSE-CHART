@@ -1,0 +1,127 @@
+
+
+
+* { 
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box; 
+}
+
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #474747;
+	width: 100%;
+	min-height: 100%;
+}
+
+figure {
+	position: relative;
+	float: right;
+	width: 50%;
+	min-width: 400px;
+	margin-top: -120px;
+}
+
+h1 {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.title, .subtitle, .caption, .label, .legend, figure {
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.title, .subtitle, .label, .legend {
+	text-transform: uppercase;
+}
+
+.title {
+	font-size: 18px;
+	width: 400px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+	.title .small {
+		font-size: 12px;
+	}
+
+.subtitle {
+	font-size: 16px;
+	width: 50%;
+	min-width: 400px;
+	margin-top: 16px;
+	text-align: center;
+}
+
+	.subtitle.left {
+		float: left;
+	}
+
+	.subtitle.right {
+		float: right;
+	}
+
+
+.caption {
+	position: relative;
+	top: -170px;
+	width: 320px;
+	display: block;
+	margin: 0 auto;
+	font-style: oblique;
+	font-size: 12px;
+}
+
+	.caption p {
+		margin: 0;
+		text-indent: 12px;
+	}
+
+.canvas {
+	font-family: 'Times New Roman', Times, serif;
+ 	font-size: 15px;
+ 	fill: #474747;
+ 	font-weight: normal;
+}
+
+.wedge {
+	stroke: #aaa;
+	stroke-width: 1px;
+}
+
+.label {
+	font-size: 9px;
+}
+
+.disease {
+	fill: rgb(151, 192, 158);
+}
+
+.other {
+	fill: rgb(3, 68, 153);
+}
+
+.wounds {
+	fill: rgb(161, 3, 43);
+}
+
+.legend {
+	width: 400px;
+	height: 50px;
+	padding: 0 20px;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	top: -150px;
+	text-align: center;
+}
+
