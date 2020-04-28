@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data-Visualization_NIGHTINGALE-S-ROSE-CHART
 	• 	The first visualization is of nightingale rose chart. For this, I used D3.js which is one of the finniest library that is available for visualization. Other things used are HTML (HYPERTEXT MARKUP LANGUAGE), CSS (CASCADING STYLE SHEET) and JavaScript. 
 	•	For this the entire data was first stored in a JSON format with information about date, army size, disease, wounds and others. 
@@ -22,3 +23,6 @@
 				<img width="445" alt="Picture 2" src="https://user-images.githubusercontent.com/22388218/80500844-53a57300-898c-11ea-90b5-0e9417fe8332.png">
 				
 
+=======
+# Data-Visualization_NIGHTINGALE'S-ROSE-CHART
+>>>>>>> 7b355f3551b085adeab67926785d5052b52edb53
