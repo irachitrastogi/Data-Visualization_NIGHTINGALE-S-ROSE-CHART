@@ -19,3 +19,11 @@
   **2nd Representation (zoomed and rotated)**
 <img width="445" alt="Picture 2" src="https://user-images.githubusercontent.com/22388218/80500844-53a57300-898c-11ea-90b5-0e9417fe8332.png">
 
+How to run the code: 
+
+- To run the code locally, Download XAMPP (free and open-source cross-platform web server) and place all the files at the root of the folder.
+- You can check from the settings folder the port to which the local host i assigned to. 
+- For me, it was: http://localhost:8080/nightingaleRose.html
+- Ultimately you will have your local setup ready. 
+- We can also follow the same steps to run it on any server (AWS or Firebase), just make sure that it has any application to publish your work as XAMPP. 
+
