@@ -16,6 +16,6 @@
 - This is a “rotated” as well as “zoomed” representation showing again the same form of data i.e. the deaths due to three factor. Here also the I have made it a little dynamic by adding the delay in representation.
 - A mouse hover on any of the area in the chart gives the number of people died in the given region. 
 
-**2nd Representation (zoomed and rotated)**
+  **2nd Representation (zoomed and rotated)**
 <img width="445" alt="Picture 2" src="https://user-images.githubusercontent.com/22388218/80500844-53a57300-898c-11ea-90b5-0e9417fe8332.png">
 
