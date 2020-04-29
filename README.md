@@ -1,4 +1,4 @@
-**Data-Visualization_NIGHTINGALE'S ROSE CHART**
+**Data Visualization_NIGHTINGALE'S ROSE CHART**
 
 - The visualization is of nightingale rose chart. For this, I have used D3.js which is one of the finniest library 	      that is available for visualization. Other things used are HTML (HYPERTEXT MARKUP LANGUAGE), CSS (CASCADING STYLE SHEET) and JavaScript. 
 - For this the entire data was first stored in a JSON format with information about date, army size, disease, wounds and others. 
