@@ -22,6 +22,7 @@
 How to run the code: 
 
 - To run the code locally, Download XAMPP (free and open-source cross-platform web server) and place all the files at the root of the folder.
+	To download XAMPP : https://www.apachefriends.org/index.html - vist the link 
 - You can check from the settings folder the port to which the local host i assigned to. 
 - For me, it was: http://localhost:8080/nightingaleRose.html
 - Ultimately you will have your local setup ready. 
